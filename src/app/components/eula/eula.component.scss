@@ -1,0 +1,16 @@
+.backgroundContainer {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */
+    background-color: #ffffff; 
+    
+  }
+  .panelHeading {
+    font-size: 28px;
+    font-weight: 400;
+    color: #434C5F;
+    margin-bottom: 50px;
+}
